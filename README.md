@@ -1,6 +1,8 @@
 # cyber_truck
 
 A new Flutter project.
+![truck](https://github.com/akarshrnz/truck_app/assets/77736922/6723ff61-23f5-48c9-82af-41ebb88631c2)
+![truck_home](https://github.com/akarshrnz/truck_app/assets/77736922/57447533-3931-4649-a76c-5f3134a0172d)
 
 ## Getting Started
 
